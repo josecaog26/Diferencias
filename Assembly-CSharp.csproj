@@ -36,7 +36,11 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Assets\Buttons.cs" />
+     <Compile Include="Assets\scripts\Buttons.cs" />
+     <Compile Include="Assets\scripts\AddScore.cs" />
+     <Compile Include="Assets\scripts\Fails.cs" />
+     <Compile Include="Assets\scripts\Menu.cs" />
+     <Compile Include="Assets\scripts\Restart.cs" />
     <Reference Include="UnityEngine">
         <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.26f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
     </Reference>
